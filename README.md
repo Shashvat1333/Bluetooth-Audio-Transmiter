@@ -117,4 +117,4 @@ Zip the `Gerbers` folder and upload it to your PCB maker (JLCPCB, PCBWay, etc.) 
 
 ## License
 
-[License, e.g. CERN-OHL-P or MIT]. See [LICENSE.md](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/LICENCE.md).
+See [LICENSE.md](https://github.com/Shashvat1333/Bluetooth-Audio-Transmiter/blob/main/LICENCE.md).
