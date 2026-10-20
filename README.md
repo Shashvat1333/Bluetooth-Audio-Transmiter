@@ -31,22 +31,6 @@ Lots of good gear has no Bluetooth: an old TV, a record player, a treadmill, a c
 - **Record player:** Listen to vinyl on wireless headphones.
 - **Gym treadmill:** No cable in your way while you run.
 
----
-
-## Repository Structure
-
-```
-Bluetooth-Audio-Receiver-Transmiter/
-├── Hardware/    # KiCad project (schematic + PCB)
-├── Gerbers/     # Files for the PCB factory
-├── BOM/         # Full parts list
-├── Firmware/    # ESP32 code
-├── LICENSE.md
-└── README.md
-```
-
----
-
 ## Schematic & PCB
 
 Audio goes in through the AUX jack, gets digitized, and is sent out over Bluetooth:
